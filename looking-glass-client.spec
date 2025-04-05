@@ -55,6 +55,9 @@ Looking Glass is a KVM Frame Relay (KVMFR) implementation for Linux that allows 
 * Sat Apr 05 2025 Junior <cjuniorfox@gmail.com> B7-1
 - new package built with tito
 
+* Sat Apr 05 2025 Junior <cjuniorfox@gmail.com> B7-1
+- new package built with tito
+
 * Fri Apr 04 2025 Junior <cjuniorfox@gmail.com> B7-1
 - new package built with tito
 
